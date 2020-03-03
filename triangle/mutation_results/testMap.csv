@@ -2,3 +2,4 @@ TestNo,TestName
 1,triangle.TriangleTest
 2,triangle.TriangleTestBranch
 3,triangle.TriangleTestCoverage
+4,triangle.TriangleTestMutant
